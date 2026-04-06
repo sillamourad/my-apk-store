@@ -1,14 +1,14 @@
 [
   {
-    "name": "My App 1",
+    "name": "air_sync_remote_z",
     "version": "1.0",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/app.apk",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/air_sync_remote_z.apk",
     "icon": "https://via.placeholder.com/100"
   },
   {
-    "name": "My App 2",
+    "name": "MultiScreenServer",
     "version": "1.0",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v2/app2.apk",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/MultiScreenServer.apk",
     "icon": "https://via.placeholder.com/100"
   }
 ]
