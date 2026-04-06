@@ -1,0 +1,14 @@
+[
+  {
+    "name": "My App 1",
+    "version": "1.0",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/app.apk",
+    "icon": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "My App 2",
+    "version": "1.0",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v2/app2.apk",
+    "icon": "https://via.placeholder.com/100"
+  }
+]
