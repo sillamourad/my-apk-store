@@ -6,6 +6,12 @@
     "icon": "https://via.placeholder.com/100"
   },
   {
+    "name": "NewPipe",
+    "version": "1.0",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/NewPipe.apk",
+    "icon": "https://via.placeholder.com/100"
+  },
+  {
     "name": "MultiScreenServer",
     "version": "1.0",
     "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/MultiScreenServer.apk",
