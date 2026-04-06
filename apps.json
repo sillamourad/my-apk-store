@@ -7,13 +7,6 @@
     "icon": "https://via.placeholder.com/100"
   },
   {
-    "name": "AthonotifyV1",
-    "version": "1.0",
-    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/AthonotifyV1.apk",
-    "icon": "https://via.placeholder.com/100"
-  },
-  {
     "name": "NewPipe",
     "version": "1.0",
     "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
@@ -26,6 +19,68 @@
     "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
     "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/MultiScreenServer.apk",
     "icon": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "Aflami",
+    "version": "1.0",
+    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Aflami.apk",
+    "icon": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "Chrome",
+    "version": "1.0",
+    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Chrome.apk",
+    "icon": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "EchooTv",
+    "version": "1.0",
+    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/EchooTv.apk",
+    "icon": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "Kokotime",
+    "version": "1.0",
+    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Kokotime.apk",
+    "icon": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "MaxIptv",
+    "version": "1.0",
+    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/MaxIptv.apk",
+    "icon": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "MovizlandTv",
+    "version": "1.0",
+    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/MovizlandTv.apk",
+    "icon": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "Myplayer",
+    "version": "1.0",
+    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Myplayer.apk",
+    "icon": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "Shahid",
+    "version": "1.0",
+    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Shahid.apk",
+    "icon": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "Weyyak",
+    "version": "1.0",
+    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Weyyak.apk",
+    "icon": "https://via.placeholder.com/100"
   }
 ]
-
