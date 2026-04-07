@@ -3,7 +3,7 @@
     "is_config": "true",
     "allow_usb_install": "true",
     "plugin_version": "3.5",
-    "plugin_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/3.4/UsbSideload"
+    "plugin_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/3.5/UsbSideload"
   },
   {
     "name": "AthonotifyV1",
