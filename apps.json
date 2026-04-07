@@ -55,32 +55,5 @@
     "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/MaxIptv.apk",
     "icon": "https://via.placeholder.com/100"
   },
-  {
-    "name": "MovizlandTv",
-    "version": "1.0",
-    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/MovizlandTv.apk",
-    "icon": "https://via.placeholder.com/100"
-  },
-  {
-    "name": "Myplayer",
-    "version": "1.0",
-    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Myplayer.apk",
-    "icon": "https://via.placeholder.com/100"
-  },
-  {
-    "name": "Shahid",
-    "version": "1.0",
-    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Shahid.apk",
-    "icon": "https://via.placeholder.com/100"
-  },
-  {
-    "name": "Weyyak",
-    "version": "1.0",
-    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Weyyak.apk",
-    "icon": "https://via.placeholder.com/100"
-  }
+
 ]
