@@ -1,7 +1,7 @@
 [
   {
     "is_config": "true",
-    "allow_usb_install": "true"
+    "allow_usb_install": "false"
   },
   {
     "name": "AthonotifyV1",
