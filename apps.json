@@ -23,12 +23,7 @@
     "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
     "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/NewPipe.apk"
   },
-  {
-    "name": "MultiScreenServer",
-    "version": "1.0",
-    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/MultiScreenServer.apk"
-  },
+ 
   {
     "name": "Aflami",
     "version": "1.0",
@@ -41,30 +36,7 @@
     "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
     "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Chrome.apk"
   },
-  {
-    "name": "EchooTv",
-    "version": "1.0",
-    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/EchooTv.apk"
-  },
-  {
-    "name": "Kokotime",
-    "version": "1.0",
-    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/Kokotime.apk"
-  },
-  {
-    "name": "MaxIptv",
-    "version": "1.0",
-    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/MaxIptv.apk"
-  },
-  {
-    "name": "MovizlandTv",
-    "version": "1.0",
-    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
-    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/MovizlandTv.apk"
-  },
+
   {
     "name": "Myplayer",
     "version": "1.0",
