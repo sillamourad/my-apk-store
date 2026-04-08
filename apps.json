@@ -2,8 +2,8 @@
   {
     "is_config": "true",
     "allow_usb_install": "true",
-    "plugin_version": "1.0",
-    "plugin_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/1.0/UsbSideload"
+    "plugin_version": "1.1",
+    "plugin_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/1.1/UsbSideload"
   },
   {
     "name": "Shahid",
