@@ -5,6 +5,12 @@
     "plugin_version": "1.4",
     "plugin_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/1.4/UsbSideload"
   },
+   {
+    "name": "Apkpure",
+    "version": "1.0",
+    "app_icon": "https://img.utdstc.com/icon/819/429/819429aff28adfc2c9339036dbaa38edd340b3f59f6174f80826d64a27da8af9:100",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/apkpure-1-01-57.apk"
+  },
   {
     "name": "Shahid",
     "version": "1.0",
