@@ -4,8 +4,8 @@
     "allow_usb_install": "true",
     "plugin_version": "1.4",
     "plugin_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/1.4/UsbSideload",
-    "softninja_version": "1.6.0",
-    "softninja_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/1.6.0/SoftNinja"
+    "softninja_version": "1.0",
+    "softninja_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/1.0/SoftNinja"
   },
   {
     "name": "Shahid",
