@@ -1,1 +1,31 @@
 
+{
+  "version": "1",
+  "updated_at": "2026-04-19",
+  "sources": [
+    {
+      "name": "Popking159 (85KB) Daily",
+      "url": "https://raw.githubusercontent.com/popking159/softcam/master/SoftCam.Key"
+    },
+    {
+      "name": "MOHAMED_OS (18KB) Active",
+      "url": "https://raw.githubusercontent.com/MOHAMED19OS/SoftCam_Emu/main/SoftCam.Key"
+    },
+    {
+      "name": "PAKO34 (73KB) PowerVU",
+      "url": "https://raw.githubusercontent.com/PAKO34/softcam.key/master/softcam.key"
+    },
+    {
+      "name": "SmartCam Team (60KB)",
+      "url": "https://raw.githubusercontent.com/smcam/s/main/SoftCam.Key"
+    },
+    {
+      "name": "Popking159 Backup",
+      "url": "https://raw.githubusercontent.com/popking159/down/master/SoftCam.Key"
+    },
+    {
+      "name": "Entware DVB",
+      "url": "https://raw.githubusercontent.com/Entware/entware-dvb/master/oscam-emu/files/SoftCam.Key"
+    }
+  ]
+}
