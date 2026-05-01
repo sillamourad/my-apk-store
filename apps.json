@@ -7,8 +7,8 @@
     "softninja_version": "1.2",
     "softninja_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/1.2/SoftNinja",
     "allow_use_softninja": true,
-    "primeScore_version": "2.0",
-    "primeScore_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/2.0/PrimeScore",
+    "primeScore_version": "1.0",
+    "primeScore_update_url": "https://github.com/sillamourad/my-apk-store/releases/download/1.0/PrimeScore",
     "allow_use_primeScore": true
   },
   {
