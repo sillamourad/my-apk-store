@@ -12,6 +12,12 @@
     "allow_use_primeScore": true
   },
   {
+    "name": "apkpure",
+    "version": "1.0",
+    "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
+    "url": "https://github.com/sillamourad/my-apk-store/releases/download/v1/apkpure-1-01-57.apk"
+  },
+  {
     "name": "Shahid",
     "version": "1.0",
     "app_icon": "https://cdn-icons-png.flaticon.com/128/12724/12724663.png",
